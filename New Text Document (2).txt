@@ -1,0 +1,64 @@
+varilables Name=
+a=5
+ruls
+1. jkdljfkajdiofj
+2.djfjdkla4474
+3.jfhjkdah djfkdsajf rah akdjfk
+4._kdfkdsjklfjdk
+5. do not use to number
+6. do not use to spesh
+7. ()use
+comment# tage
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+speed_of_light=("299792458")
+print(speed_of_light)
+#metre per minute
+light=(speed_of_light*60)
+print(light)
+***************
+a=9
+a=a+1
+a=a*2
+print(a)
+
+abc=("computer")
+print(abc[2])
+
+#starting position : ednding positin+1
+abc=("computer")
+print(abc[3:3+1])
+
+
+abc=("computer")
+print(len(abc))
+
+abc=("computer")
+print(abc[:-2])
+
+abc=("computer")
+print(abc[:50])
+
+abc=("computer")
+print(abc[0:5]+abc[5:9])
+
+abc=("computer")
+print(abc.find("p"))
+
+abc=("today your class will stop after few days ago strted my class")
+y=(abc.find("class"))
+print(abc[y:])
+
+abc=("today your class will stop after few days ago strted my class")
+y=(abc.find("class"))
+print(abc[:y])
